@@ -102,4 +102,10 @@ The diagram below shows how the system works:
   <img src="Architecture Diagram.png" width="600"/>
 </p>
 
+##  Demo Video
+
+A short 2-minute video explaining the project idea, workflow, and features:
+
+👉 [Watch Demo Video](https://youtu.be/p1BIq-WN_6I?si=uK8S7UADKYfpBL86)
+
 
