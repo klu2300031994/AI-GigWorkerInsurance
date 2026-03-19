@@ -97,6 +97,6 @@ Premium amounts are adjusted based on the risk level of the user’s working loc
  
 The diagram below shows how the system automatically detects disruptions and processes payouts.
 
-![Architecture Diagram]()
+![Architecture Diagram](Architecture Diagram.png)
 
 
