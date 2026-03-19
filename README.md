@@ -93,7 +93,7 @@ Premium amounts are adjusted based on the risk level of the user’s working loc
 - Other Tools:
   - GitHub (version control)  
   - Postman (API testing)
-  - 
+
 ## 9. System Architecture
 
 The diagram below shows how the system works:
