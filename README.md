@@ -6,23 +6,24 @@ However, their work is highly affected by external factors such as heavy rain, e
 As a result, they lose a significant portion of their income (around 20–30%), and currently, there is no system that compensates them for this loss. This makes their income unstable and uncertain.
 
 ## 2. Target Persona
-Rahul is a 23 year Swiggy delivery partner who works in Hyderabad. He works for around 9 to 10 hours every day. Rahul earns between ₹700 and ₹900 each day based on the number of orders he completes. Rahul completes around 20 to 25 orders on days.However the Swiggy delivery partner Rahul faces problems when the weather is bad.
 
-- When it rains heavily Swiggy delivery partner Rahul does not like to ride his bike.
+Rahul is a 23-year-old Swiggy delivery partner working in Hyderabad. He works around 9 to 10 hours daily and earns approximately ₹700–₹900 per day based on the number of orders he completes.
+On normal days, Rahul completes around 20–25 deliveries. But his work becomes difficult during extreme weather conditions.
 
-- When the temperature is, above 40°C, Swiggy delivery partner Rahul takes breaks in between his work.
+- During heavy rain, he avoids riding due to safety risks  
+- In extreme heat (above 40°C), he takes frequent breaks due to exhaustion  
+- During high pollution days, long working hours become uncomfortable  
 
-- When the pollution is high Swiggy delivery partner Rahul finds it hard to work for hours.
+Because of these factors, Rahul often loses a portion of his daily income. He does not have any insurance or financial support system that helps him during such situations.
 
-Because of these problems Swiggy delivery partner Rahul loses some of his earnings. Swiggy delivery partner Rahul does not have any insurance or any other way to get help.
 
-## 4. Proposed Solution
+## 3. Proposed Solution
 
 The proposed system will be an AI-based parametric insurance system, and it will be tailored to the needs of delivery workers. The system will monitor conditions outside the worker, such as the weather and traffic. In turn, this will automatically trigger a payment to the worker upon the satisfaction of certain conditions.
 
 This will ensure timely and convenient payment without the need for paperwork.
 
-## 5. Weekly Pricing Model
+## 4. Weekly Pricing Model
 
 The plans are designed to be affordable for delivery workers:
 
@@ -32,7 +33,7 @@ The plans are designed to be affordable for delivery workers:
 
 The premium may vary slightly depending on the risk level of the area.
 
-## 6. Parametric Triggers
+## 5. Parametric Triggers
 
 The system utilizes predetermined environmental conditions to initiate the payment process automatically. The conditions include:
 
@@ -42,7 +43,7 @@ The system utilizes predetermined environmental conditions to initiate the payme
 
 In the event of the occurrence of any of these conditions, the system will recognize the disruption and initiate the payment process.
 
-## 7. AI/ML Integration
+## 6. AI/ML Integration
 
 AI is used in the system in the following ways:
 
@@ -57,7 +58,7 @@ Premium amounts are adjusted based on the risk level of the user’s working loc
 - Matches weather data with claims  
 - Prevents duplicate or false claims
 
-## 8. Workflow
+## 7. Workflow
 
 1. The user registers on the platform 
 2. Selects a weekly insurance plan 
@@ -70,7 +71,7 @@ Premium amounts are adjusted based on the risk level of the user’s working loc
  - A claim is generated instantly 
  - The payout is credited to the user
 
-## 9. Tech Stack
+## 8. Tech Stack
 
 - Frontend: HTML / React  
 - Backend: Node.js / Python  
@@ -93,10 +94,12 @@ Premium amounts are adjusted based on the risk level of the user’s working loc
   - GitHub (version control)  
   - Postman (API testing)
   - 
- ## 10. System Architecture
- 
-The diagram below shows how the system automatically detects disruptions and processes payouts.
+## 9. System Architecture
 
-![Architecture Diagram](Architecture Diagram.png)
+The diagram below shows how the system works:
+
+<p align="center">
+  <img src="Architecture Diagram.png" width="600"/>
+</p>
 
 
