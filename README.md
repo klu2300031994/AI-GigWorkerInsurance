@@ -102,7 +102,6 @@ The diagram below shows how the system works:
   <img src="Architecture Diagram.png" width="600"/>
 </p>
 
-
 ##  Project Demo Video
 
 Watch the 2-minute demo here:  
